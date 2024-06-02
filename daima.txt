@@ -1,0 +1,3 @@
+
+def 鼠标移开():
+    pyautogui.moveTo(顶点坐标X + 300, 顶点坐标Y + 100)
